@@ -24,5 +24,3 @@ DISCARDED ALTERNATIVES
  Reflection can be used here as an altervative approach.
 
 
-Serta� Yilmaz
-
